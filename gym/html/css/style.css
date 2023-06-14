@@ -1,0 +1,81 @@
+body{
+    overflow-x: none;
+}
+
+.box{
+    font-size: 40px;
+    transition: 0.3s ease;
+  /*margin-top: 15px;*/
+  
+}
+
+
+.font{
+    width: 80px;
+    margin-bottom: 10px;
+}
+.jaune{
+    color:yellow;
+
+}
+
+
+.bgRouge{
+
+    background-color: rgb(195, 50, 50);
+   
+}
+
+.liensTaille li a{
+    font-size: 16px;
+    text-decoration: none;
+    transition: 0.3s ease;
+    font-weight: bold;
+    margin-top: 19px;
+}
+
+.liensTaille li a:hover{
+    font-size: 20px;
+}
+
+.paraph1{
+    font-size: 15px;
+}
+
+
+.bgImg{
+    margin-top: -20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.500) ,rgba(0, 0, 0, 0.500)), url('/html/photo/pexels-leon-ardho-1552106.jpg');
+}
+
+.paraph2{
+    font-size: 14px;
+}
+
+.margeNav{
+    padding: 30px;
+}
+
+
+.font2{
+    color: aliceblue;
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.box2{
+    color: white;
+}
+
+.fs-pied{
+    font-size: 15px;
+}
+
+.fs-footer-h3{
+    font-size: 19px;
+    color: aqua;
+}
+
